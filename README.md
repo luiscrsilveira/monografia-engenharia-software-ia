@@ -4,6 +4,8 @@
 
 > Monografia apresentada ao Curso de Pós-Graduação Lato Sensu (MBA) em Engenharia de Software — 2026
 
+**Autor:** Luis Cláudio Silveira
+
 ---
 
 ## Sobre
