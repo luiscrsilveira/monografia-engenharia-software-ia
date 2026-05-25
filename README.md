@@ -82,3 +82,7 @@ Engenharia de software · Inteligência artificial · Modelos de linguagem · En
 ## Download
 
 O arquivo completo da monografia está disponível neste repositório: [`monografia.pdf`](./monografia.pdf)
+
+## Áudio
+
+Visão geral em áudio da monografia: [`audio_overview.mp3`](./audio_overview.mp3)
